@@ -14,7 +14,7 @@ Library: <a href="https://pypi.org/project/autoscraper/">AutoScraper</a>
 │    ├── "home" the main function
 │    ├── "searchquery" function
 </pre>
- My LinkedIn Profile: https://www.linkedin.com/in/panwar-abhash-anil/
+ My LinkedIn Profile: https://www.linkedin.com/in/jitendra-singh-balla-2008871a3/
 # Keep Learning | Keep Sharing
 
 
